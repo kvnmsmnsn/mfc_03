@@ -24,7 +24,7 @@ lab=gate}
 C {devices/ipin.sym} -420 -210 0 0 {name=p1 lab=gate}
 C {sky130_fd_pr/nfet_01v8.sym} -290 -210 0 0 {name=M2
 L=0.15
-W=0.42
+W=3.36
 nf=1 
 mult=1
 ad="'int((nf+1)/2) * W/nf * 0.29'" 
